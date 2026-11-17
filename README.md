@@ -1,0 +1,2 @@
+# restart-extension
+SyncServiceCoverageGateReplica1
